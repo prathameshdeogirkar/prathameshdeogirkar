@@ -1,4 +1,4 @@
-![Header Image](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F0wr3qsekbmgepdgu9zyj.jpg)
+<img src="./blmbg_f_nanc.gif" alt="background img" align='center' width="100%" height="300px"/>
 
 <h1 align="center">Hi 👋, I'm Prathamesh Deogirkar</h1>
 <h3 align="center">A passionate frontend developer</h3>
